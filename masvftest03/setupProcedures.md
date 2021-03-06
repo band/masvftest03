@@ -8,6 +8,8 @@ Setup procedures for new Obsidian-Git vaults.
 Open Obsidian Client
  3. "Open another vault"
  4. "Create new vault: create a new Obsidian vault under a folder"
+ 4.1. give the vault directory a name like "notes"
+       (still confused a bit about what names what where)
 
 In the new vault browser:
  5. Select "Community plugins" (need to disable safe mode)
