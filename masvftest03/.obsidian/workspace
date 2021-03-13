@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "first file.md",
+            "file": "what happens.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "first file.md",
+                "file": "what happens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "first file.md",
+    "Untitled.md",
     "setupProcedures.md",
-    "Untitled.md"
+    "first file.md"
   ]
 }
